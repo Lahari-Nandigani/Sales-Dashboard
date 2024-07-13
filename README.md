@@ -12,6 +12,9 @@ pip install Streamlit
 # Step 4: Install Pandas using comamnd prompt (cmd)
 pip install pandas
 
+# Step 5: Install Plotly using comamnd prompt (cmd)
+pip install plotly
+
 # Step 5: Run the program in the command prompt (cmd)
 streamlit run dashboards.py
 ```
